@@ -1,1 +1,10 @@
-{}
+{
+  "8px": {
+    "value": "8px",
+    "type": "sizing"
+  },
+  "16px": {
+    "value": "16px",
+    "type": "sizing"
+  }
+}
