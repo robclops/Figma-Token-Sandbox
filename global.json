@@ -6,5 +6,21 @@
   "16px": {
     "value": "16px",
     "type": "sizing"
+  },
+  "Red": {
+    "value": "#ff8e8e",
+    "type": "color"
+  },
+  "Red 2": {
+    "value": "#ff3131",
+    "type": "color"
+  },
+  "Blue": {
+    "value": "#63b1ff",
+    "type": "color"
+  },
+  "Blue2": {
+    "value": "#3e5bff",
+    "type": "color"
   }
 }
