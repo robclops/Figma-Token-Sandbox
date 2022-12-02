@@ -1,0 +1,160 @@
+{
+  "Base Integers": {
+    "4px": {
+      "value": "4px",
+      "type": "sizing"
+    },
+    "8px": {
+      "value": "8",
+      "type": "sizing"
+    },
+    "16px": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "24px": {
+      "value": "24px",
+      "type": "sizing"
+    }
+  },
+  "UI": {
+    "Blue 4": {
+      "value": "#111A2C",
+      "type": "color"
+    },
+    "Blue 3": {
+      "value": "#0054A2",
+      "type": "color"
+    },
+    "Dirt Red": {
+      "value": "#1C0D00",
+      "type": "color"
+    },
+    "Red 1": {
+      "value": "#BC2915",
+      "type": "color"
+    },
+    "Off Yellow": {
+      "value": "#FECD4E",
+      "type": "color"
+    },
+    "Mid Tan": {
+      "value": "#BAB19F",
+      "type": "color"
+    },
+    "Light Tan": {
+      "value": "#FCF6E5",
+      "type": "color"
+    }
+  },
+  "Monotone": {
+    "White": {
+      "value": "#FFFFFF",
+      "type": "color"
+    },
+    "Black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "Darkest Gray": {
+      "value": "#111111",
+      "type": "color"
+    },
+    "Dark Gray": {
+      "value": "#272727",
+      "type": "color"
+    },
+    "Gray": {
+      "value": "#3B3B3B",
+      "type": "color"
+    },
+    "Light Gray": {
+      "value": "#8A8A86",
+      "type": "color"
+    },
+    "Off White": {
+      "value": "#EBEBEB",
+      "type": "color"
+    }
+  },
+  "Font": {
+    "Helvetica Neue LT Com - 77 Bold": {
+      "value": {
+        "fontFamily": "Helvetica Neue LT Com",
+        "fontWeight": "77 Bold Condensed",
+        "lineHeight": "",
+        "fontSize": "",
+        "letterSpacing": "",
+        "paragraphSpacing": ""
+      },
+      "type": "typography"
+    },
+    "Helvetica Neue LT Com - 67 Medium": {
+      "value": {
+        "fontFamily": "Helvetica Neue LT Com",
+        "fontWeight": "67 Medium Condensed",
+        "lineHeight": "",
+        "fontSize": "",
+        "letterSpacing": "",
+        "paragraphSpacing": ""
+      },
+      "type": "typography"
+    },
+    "Helvetica Neue LT Com - 57 Condensed": {
+      "value": {
+        "fontFamily": "Helvetica Neue LT Com",
+        "fontWeight": "57 Condensed",
+        "lineHeight": "",
+        "fontSize": "",
+        "letterSpacing": "",
+        "paragraphSpacing": ""
+      },
+      "type": "typography"
+    },
+    "Helvetica Neue Light": {
+      "value": {
+        "fontFamily": "Helvetica Neue",
+        "fontWeight": "Light",
+        "lineHeight": "",
+        "fontSize": "",
+        "letterSpacing": "",
+        "paragraphSpacing": ""
+      },
+      "type": "typography"
+    }
+  },
+  "Gradient": {
+    "Orange": {
+      "value": "linear-gradient(180deg, #F59B21 0%, #CB7A0F 100%)",
+      "type": "color"
+    },
+    "Orange Pressed": {
+      "value": "linear-gradient(180deg, #E87913 0%, #AB4810 100%)",
+      "type": "color"
+    },
+    "Red": {
+      "value": "linear-gradient(180deg, #BE2319 0%, #8A1A12 100%)",
+      "type": "color"
+    },
+    "Red Pressed": {
+      "value": "linear-gradient(180deg, #AC0A0A 0%, #510803 100%)",
+      "type": "color"
+    },
+    "Blue": {
+      "value": "linear-gradient(180deg, #3C5A99 0%, #2A3E6B 100%)",
+      "type": "color"
+    },
+    "Blue Pressed": {
+      "value": "linear-gradient(180deg, #294786 0%, #161841 100%)",
+      "type": "color"
+    },
+    "Gray": {
+      "value": "linear-gradient(180deg, #898989 0%, #595959 100%)",
+      "type": "color"
+    },
+    "Gray Pressed": {
+      "value": "linear-gradient(180deg, #696969 0%, #343333 100%)",
+      "type": "color"
+    }
+  }
+}
