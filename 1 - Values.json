@@ -258,5 +258,25 @@
       "value": "20px",
       "type": "spacing"
     }
+  },
+  "10%": {
+    "value": "0.1",
+    "type": "opacity"
+  },
+  "20%": {
+    "value": "0.2",
+    "type": "opacity"
+  },
+  "30%": {
+    "value": "0.3",
+    "type": "opacity"
+  },
+  "40%": {
+    "value": "0.4",
+    "type": "opacity"
+  },
+  "50%": {
+    "value": "0.5",
+    "type": "opacity"
   }
 }
