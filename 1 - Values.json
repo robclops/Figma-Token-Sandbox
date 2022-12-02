@@ -1,4 +1,28 @@
 {
+  "13": {
+    "value": "13",
+    "type": "fontSizes"
+  },
+  "16": {
+    "value": "16",
+    "type": "fontSizes"
+  },
+  "20": {
+    "value": "20",
+    "type": "fontSizes"
+  },
+  "25": {
+    "value": "25",
+    "type": "fontSizes"
+  },
+  "31": {
+    "value": "31",
+    "type": "fontSizes"
+  },
+  "39": {
+    "value": "39",
+    "type": "fontSizes"
+  },
   "Base Integers": {
     "4px": {
       "value": "4px",
@@ -111,7 +135,7 @@
       },
       "type": "typography"
     },
-    "Helvetica Neue Light": {
+    "Helvetica Neue  - Light": {
       "value": {
         "fontFamily": "Helvetica Neue",
         "fontWeight": "Light",

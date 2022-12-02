@@ -1,1 +1,48 @@
-{}
+{
+  "Heading": {
+    "Heading 1": {
+      "value": {
+        "fontFamily": "{Font.Helvetica Neue LT Com - 77 Bold}",
+        "fontSize": "{39}"
+      },
+      "type": "typography"
+    },
+    "Heading 2": {
+      "value": {
+        "fontFamily": "{Font.Helvetica Neue LT Com - 67 Medium}",
+        "fontSize": "{31}"
+      },
+      "type": "typography"
+    },
+    "Heading 3": {
+      "value": {
+        "fontFamily": "{Font.Helvetica Neue LT Com - 67 Medium}",
+        "fontSize": "{25}"
+      },
+      "type": "typography"
+    }
+  },
+  "Sub Heading": {
+    " Sub Heading 1": {
+      "value": {
+        "fontFamily": "{Font.Helvetica Neue LT Com - 67 Medium}",
+        "fontSize": "{20}"
+      },
+      "type": "typography"
+    },
+    " Sub Heading 2": {
+      "value": {
+        "fontFamily": "{Font.Helvetica Neue LT Com - 57 Condensed}",
+        "fontSize": "{20}"
+      },
+      "type": "typography"
+    },
+    " Sub Heading 3": {
+      "value": {
+        "fontFamily": "{Font.Helvetica Neue LT Com - 67 Medium}",
+        "fontSize": "{16}"
+      },
+      "type": "typography"
+    }
+  }
+}
