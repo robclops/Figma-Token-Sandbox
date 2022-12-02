@@ -257,6 +257,18 @@
     "20px": {
       "value": "20px",
       "type": "spacing"
+    },
+    "22px": {
+      "value": "22px",
+      "type": "spacing"
+    },
+    "24px": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "32px": {
+      "value": "32px",
+      "type": "spacing"
     }
   },
   "10%": {
@@ -278,5 +290,39 @@
   "50%": {
     "value": "0.5",
     "type": "opacity"
+  },
+  "Opacity Color": {
+    "Black": {
+      "45%": {
+        "value": "rgba(0,0,0,0.45)",
+        "type": "color"
+      },
+      "33%": {
+        "value": "rgba(0,0,0,0.33)",
+        "type": "color"
+      },
+      "20%": {
+        "value": "rgba(0,0,0,0.2)",
+        "type": "color"
+      },
+      "10%": {
+        "value": "rgba(0,0,0,0.1)",
+        "type": "color"
+      }
+    }
+  },
+  "Widths": {
+    "343px": {
+      "value": "343px",
+      "type": "sizing"
+    },
+    "375px": {
+      "value": "375px",
+      "type": "sizing"
+    },
+    "100%": {
+      "value": "100%",
+      "type": "sizing"
+    }
   }
 }

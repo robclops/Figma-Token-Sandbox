@@ -156,5 +156,26 @@
         "type": "color"
       }
     }
+  },
+  "4px Solid Shadow": {
+    "value": {
+      "x": "0",
+      "y": "4",
+      "blur": "0",
+      "spread": "0",
+      "color": "{Opacity Color.Black.45%}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "Containers": {
+    "Full Width": {
+      "value": "{Widths.100%}",
+      "type": "sizing"
+    },
+    "Card": {
+      "value": "{Widths.343px}",
+      "type": "sizing"
+    }
   }
 }

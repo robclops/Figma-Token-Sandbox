@@ -1,0 +1,15 @@
+{
+  "Card": {
+    "value": {
+      "fill": "{Flat.Container.Primary}",
+      "borderRadius": "{8px}",
+      "borderWidth": "{Border Width.1px}",
+      "border": "{Flat.Container.Primary Border}",
+      "itemSpacing": "{Spacing.12px}",
+      "spacing": "{Spacing.16px}",
+      "boxShadow": "{4px Solid Shadow}",
+      "width": "{Widths.343px}"
+    },
+    "type": "composition"
+  }
+}
