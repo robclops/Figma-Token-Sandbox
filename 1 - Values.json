@@ -84,6 +84,10 @@
       "value": "#111111",
       "type": "color"
     },
+    "Darker Gray": {
+      "value": "#161616",
+      "type": "color"
+    },
     "Dark Gray": {
       "value": "#272727",
       "type": "color"
@@ -132,6 +136,14 @@
     },
     "Gray Pressed": {
       "value": "linear-gradient(180deg, #696969 0%, #343333 100%)",
+      "type": "color"
+    },
+    "Tan": {
+      "value": "linear-gradient(180deg, #FEFDF6 0%, #F6EFDC 100%)",
+      "type": "color"
+    },
+    "Tan Pressed": {
+      "value": "linear-gradient(180deg, #E5E5DE 0%, #DBD5C4 100%)",
       "type": "color"
     }
   },

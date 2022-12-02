@@ -67,6 +67,94 @@
         "fontSize": "{13}"
       },
       "type": "typography"
+    },
+    "Link": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontWeight": "{67 Medium Condensed}",
+        "fontSize": "{16}"
+      },
+      "type": "typography"
+    },
+    "Button": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontWeight": "{67 Medium Condensed}",
+        "fontSize": "{25}"
+      },
+      "type": "typography"
+    }
+  },
+  "Gradient": {
+    "Control": {
+      "Primary": {
+        "value": "{Gradient.Blue}",
+        "type": "color"
+      },
+      "Primary Pressed": {
+        "value": "{Gradient.Blue Pressed}",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "{Gradient.Gray}",
+        "type": "color"
+      },
+      "Secondary Pressed": {
+        "value": "{Gradient.Gray Pressed}",
+        "type": "color"
+      },
+      "Alternate": {
+        "value": "{Gradient.Orange}",
+        "type": "color"
+      },
+      "Alternate Pressed": {
+        "value": "{Gradient.Orange Pressed}",
+        "type": "color"
+      },
+      "Destructive": {
+        "value": "{Gradient.Red}",
+        "type": "color"
+      },
+      "Destructive Pressed": {
+        "value": "{Gradient.Red Pressed}",
+        "type": "color"
+      }
+    },
+    "Container": {
+      "Primary": {
+        "value": "{Gradient.Tan}",
+        "type": "color"
+      },
+      "Primary Pressed": {
+        "value": "{Gradient.Tan Pressed}",
+        "type": "color"
+      }
+    }
+  },
+  "Flat": {
+    "Container": {
+      "Primary": {
+        "value": "{UI.Light Tan}",
+        "type": "color"
+      },
+      "Primary Border": {
+        "value": "{UI.Dirt Red}",
+        "type": "color"
+      },
+      "Primary Edge": {
+        "value": "{UI.Mid Tan}",
+        "type": "color"
+      }
+    },
+    "Control": {
+      "Primary Border": {
+        "value": "{UI.Blue 4}",
+        "type": "color"
+      },
+      "Secondary Border": {
+        "value": "{Monotone.Darker Gray}",
+        "type": "color"
+      }
     }
   }
 }
