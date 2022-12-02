@@ -2,22 +2,25 @@
   "Heading": {
     "Heading 1": {
       "value": {
-        "fontFamily": "{Font.Helvetica Neue LT Com - 77 Bold}",
-        "fontSize": "{39}"
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{39}",
+        "fontWeight": "{77 Bold Condensed}"
       },
       "type": "typography"
     },
     "Heading 2": {
       "value": {
-        "fontFamily": "{Font.Helvetica Neue LT Com - 67 Medium}",
-        "fontSize": "{31}"
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{31}",
+        "fontWeight": "{67 Medium Condensed}"
       },
       "type": "typography"
     },
     "Heading 3": {
       "value": {
-        "fontFamily": "{Font.Helvetica Neue LT Com - 67 Medium}",
-        "fontSize": "{25}"
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{25}",
+        "fontWeight": "{67 Medium Condensed}"
       },
       "type": "typography"
     }
@@ -25,22 +28,43 @@
   "Sub Heading": {
     " Sub Heading 1": {
       "value": {
-        "fontFamily": "{Font.Helvetica Neue LT Com - 67 Medium}",
-        "fontSize": "{20}"
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{20}",
+        "fontWeight": "{67 Medium Condensed}"
       },
       "type": "typography"
     },
     " Sub Heading 2": {
       "value": {
-        "fontFamily": "{Font.Helvetica Neue LT Com - 57 Condensed}",
-        "fontSize": "{20}"
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{20}",
+        "fontWeight": "{57 Condensed}"
       },
       "type": "typography"
     },
     " Sub Heading 3": {
       "value": {
-        "fontFamily": "{Font.Helvetica Neue LT Com - 67 Medium}",
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{16}",
+        "fontWeight": "{67 Medium Condensed}"
+      },
+      "type": "typography"
+    }
+  },
+  "Content": {
+    "Body": {
+      "value": {
+        "fontFamily": "{Helvetica Neue}",
+        "fontWeight": "{Light}",
         "fontSize": "{16}"
+      },
+      "type": "typography"
+    },
+    "Caption": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontWeight": "{57 Condensed}",
+        "fontSize": "{13}"
       },
       "type": "typography"
     }

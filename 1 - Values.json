@@ -101,52 +101,6 @@
       "type": "color"
     }
   },
-  "Font": {
-    "Helvetica Neue LT Com - 77 Bold": {
-      "value": {
-        "fontFamily": "Helvetica Neue LT Com",
-        "fontWeight": "77 Bold Condensed",
-        "lineHeight": "",
-        "fontSize": "",
-        "letterSpacing": "",
-        "paragraphSpacing": ""
-      },
-      "type": "typography"
-    },
-    "Helvetica Neue LT Com - 67 Medium": {
-      "value": {
-        "fontFamily": "Helvetica Neue LT Com",
-        "fontWeight": "67 Medium Condensed",
-        "lineHeight": "",
-        "fontSize": "",
-        "letterSpacing": "",
-        "paragraphSpacing": ""
-      },
-      "type": "typography"
-    },
-    "Helvetica Neue LT Com - 57 Condensed": {
-      "value": {
-        "fontFamily": "Helvetica Neue LT Com",
-        "fontWeight": "57 Condensed",
-        "lineHeight": "",
-        "fontSize": "",
-        "letterSpacing": "",
-        "paragraphSpacing": ""
-      },
-      "type": "typography"
-    },
-    "Helvetica Neue  - Light": {
-      "value": {
-        "fontFamily": "Helvetica Neue",
-        "fontWeight": "Light",
-        "lineHeight": "",
-        "fontSize": "",
-        "letterSpacing": "",
-        "paragraphSpacing": ""
-      },
-      "type": "typography"
-    }
-  },
   "Gradient": {
     "Orange": {
       "value": "linear-gradient(180deg, #F59B21 0%, #CB7A0F 100%)",
@@ -180,5 +134,29 @@
       "value": "linear-gradient(180deg, #696969 0%, #343333 100%)",
       "type": "color"
     }
+  },
+  "Helvetica Neue LT Com": {
+    "value": "Helvetica Neue LT Com",
+    "type": "fontFamilies"
+  },
+  "Helvetica Neue": {
+    "value": "Helvetica Neue",
+    "type": "fontFamilies"
+  },
+  "77 Bold Condensed": {
+    "value": "77 Bold Condensed",
+    "type": "fontWeights"
+  },
+  "Light": {
+    "value": "Light",
+    "type": "fontWeights"
+  },
+  "67 Medium Condensed": {
+    "value": "67 Medium Condensed",
+    "type": "fontWeights"
+  },
+  "57 Condensed": {
+    "value": "57 Condensed",
+    "type": "fontWeights"
   }
 }
