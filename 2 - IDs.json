@@ -134,25 +134,25 @@
   "Flat": {
     "Container": {
       "Primary": {
-        "value": "{UI.Light Tan}",
+        "value": "{UI.#FCF6E5}",
         "type": "color"
       },
       "Primary Border": {
-        "value": "{UI.Dirt Red}",
+        "value": "{UI.#1C0D00}",
         "type": "color"
       },
       "Primary Edge": {
-        "value": "{UI.Mid Tan}",
+        "value": "{UI.#BAB19F}",
         "type": "color"
       }
     },
     "Control": {
       "Primary Border": {
-        "value": "{UI.Blue 4}",
+        "value": "{UI.#111A2C}",
         "type": "color"
       },
       "Secondary Border": {
-        "value": "{Monotone.Darker Gray}",
+        "value": "{Monotone.#161616}",
         "type": "color"
       }
     }

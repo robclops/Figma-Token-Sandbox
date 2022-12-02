@@ -42,65 +42,81 @@
     }
   },
   "UI": {
-    "Blue 4": {
+    "#111A2C": {
       "value": "#111A2C",
       "type": "color"
     },
-    "Blue 3": {
+    "#0054A2": {
       "value": "#0054A2",
       "type": "color"
     },
-    "Dirt Red": {
+    "#1C0D00": {
       "value": "#1C0D00",
       "type": "color"
     },
-    "Red 1": {
+    "#371F00": {
+      "value": "#371F00",
+      "type": "color"
+    },
+    "#BC2915": {
       "value": "#BC2915",
       "type": "color"
     },
-    "Off Yellow": {
+    "#FECD4E": {
       "value": "#FECD4E",
       "type": "color"
     },
-    "Mid Tan": {
+    "#BAB19F": {
       "value": "#BAB19F",
       "type": "color"
     },
-    "Light Tan": {
+    "#EDE7D7": {
+      "value": "#EDE7D7",
+      "type": "color"
+    },
+    "#FCF6E5": {
       "value": "#FCF6E5",
+      "type": "color"
+    },
+    "#FFD5D5": {
+      "value": "#FFD5D5",
+      "type": "color"
+    },
+    "#3D4330": {
+      "value": "#3D4330",
       "type": "color"
     }
   },
   "Monotone": {
-    "White": {
+    "#FFFFFF": {
       "value": "#FFFFFF",
       "type": "color"
     },
-    "Black": {
+    "#000000": {
       "value": "#000000",
       "type": "color"
     },
-    "Darkest Gray": {
+    "#111111": {
       "value": "#111111",
       "type": "color"
     },
-    "Darker Gray": {
+    "#161616": {
       "value": "#161616",
       "type": "color"
     },
-    "Dark Gray": {
+    "#272727": {
       "value": "#272727",
       "type": "color"
     },
-    "Gray": {
+    "#3B3B3B": {
       "value": "#3B3B3B",
       "type": "color"
     },
-    "Light Gray": {
+    "#8A8A86": {
       "value": "#8A8A86",
       "type": "color"
     },
-    "Off White": {
+    "#EBEBEB": {
       "value": "#EBEBEB",
       "type": "color"
     }
@@ -170,5 +186,77 @@
   "57 Condensed": {
     "value": "57 Condensed",
     "type": "fontWeights"
+  },
+  "2px": {
+    "value": "2px",
+    "type": "borderRadius"
+  },
+  "4px": {
+    "value": "4px",
+    "type": "borderRadius"
+  },
+  "6px": {
+    "value": "6px",
+    "type": "borderRadius"
+  },
+  "8px": {
+    "value": "8px",
+    "type": "borderRadius"
+  },
+  "Border Width": {
+    "Half Pixel": {
+      "value": "0.5px",
+      "type": "borderWidth"
+    },
+    "1px": {
+      "value": "1px",
+      "type": "borderWidth"
+    },
+    "2px": {
+      "value": "2px",
+      "type": "borderWidth"
+    },
+    "3px": {
+      "value": "3px",
+      "type": "borderWidth"
+    },
+    "4px": {
+      "value": "4px",
+      "type": "borderWidth"
+    }
+  },
+  "Spacing": {
+    "4px": {
+      "value": "4px",
+      "type": "spacing"
+    },
+    "6px": {
+      "value": "6px",
+      "type": "spacing"
+    },
+    "8px": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "12px": {
+      "value": "12px",
+      "type": "spacing"
+    },
+    "14px": {
+      "value": "14px",
+      "type": "spacing"
+    },
+    "16px": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "18px": {
+      "value": "18px",
+      "type": "spacing"
+    },
+    "20px": {
+      "value": "20px",
+      "type": "spacing"
+    }
   }
 }
