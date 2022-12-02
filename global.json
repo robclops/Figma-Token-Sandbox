@@ -1,26 +1,107 @@
 {
-  "8px": {
-    "value": "8px",
-    "type": "sizing"
+  "base": {
+    "value": "4",
+    "type": "borderRadius"
   },
-  "16px": {
-    "value": "16px",
-    "type": "sizing"
+  "s": {
+    "value": "{base}",
+    "type": "borderRadius"
   },
-  "Red": {
-    "value": "#ff8e8e",
-    "type": "color"
+  "m": {
+    "value": "{base} *2",
+    "type": "borderRadius"
   },
-  "Red 2": {
-    "value": "#ff3131",
-    "type": "color"
+  "l": {
+    "value": "{base} *4",
+    "type": "borderRadius"
   },
-  "Blue": {
-    "value": "#63b1ff",
-    "type": "color"
+  "xl": {
+    "value": "{base} *8",
+    "type": "borderRadius"
   },
-  "Blue2": {
-    "value": "#3e5bff",
-    "type": "color"
+  "card": {
+    "default": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "0",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.35)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  },
+  "title": {
+    "value": {
+      "fontFamily": "{primary}",
+      "fontWeight": "Bold",
+      "lineHeight": "100%",
+      "fontSize": "32"
+    },
+    "type": "typography"
+  },
+  "primary": {
+    "value": "Arial",
+    "type": "fontFamilies"
+  },
+  "body": {
+    "value": {
+      "fontFamily": "{primary}",
+      "fontWeight": "Regular",
+      "lineHeight": "150%",
+      "fontSize": "16"
+    },
+    "type": "typography"
+  },
+  "gap": {
+    "xs": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "s": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "m": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "l": {
+      "value": "24",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": "32",
+      "type": "spacing"
+    }
+  },
+  "Button": {
+    "primary": {
+      "value": {
+        "fontFamily": "{primary}",
+        "fontWeight": "Bold",
+        "lineHeight": "100%",
+        "fontSize": "24"
+      },
+      "type": "typography"
+    }
+  },
+  "regular": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "button": {
+    "default": {
+      "value": {
+        "x": "0",
+        "y": "2",
+        "blur": "0",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.35)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
   }
 }
