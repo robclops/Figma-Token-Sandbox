@@ -235,7 +235,7 @@
       "type": "spacing"
     },
     "8px": {
-      "value": "8px",
+      "value": "{Spacing.4px}*2",
       "type": "spacing"
     },
     "12px": {
