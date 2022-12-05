@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "d1e99a84a6beab6375b78d0f75553d55cbacfa42",
+    "name": "Flyclops Theme",
+    "selectedTokenSets": {
+      "global": "disabled",
+      "0 - Flyclops Brand": "enabled",
+      "2 - Aliases": "source",
+      "1 - Primitives": "source",
+      "3 - Component": "source",
+      "4 - Beyond??": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "3aebc6b82ba60340b982fda6c1b2fd68c2fd7a56",
+    "name": "Alt Theme",
+    "selectedTokenSets": {
+      "global": "disabled",
+      "0 - Flyclops Brand": "enabled",
+      "1 - Primitives": "enabled",
+      "2 - Aliases": "enabled",
+      "3 - Component": "enabled",
+      "4 - Beyond??": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

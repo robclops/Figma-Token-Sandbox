@@ -1,0 +1,204 @@
+{
+  "Heading": {
+    "Heading 1": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{39}",
+        "fontWeight": "{77 Bold Condensed}"
+      },
+      "type": "typography"
+    },
+    "Heading 2": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{31}",
+        "fontWeight": "{67 Medium Condensed}"
+      },
+      "type": "typography"
+    },
+    "Heading 3": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{25}",
+        "fontWeight": "{67 Medium Condensed}"
+      },
+      "type": "typography"
+    }
+  },
+  "Sub Heading": {
+    " Sub Heading 1": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{20}",
+        "fontWeight": "{67 Medium Condensed}"
+      },
+      "type": "typography"
+    },
+    " Sub Heading 2": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{20}",
+        "fontWeight": "{57 Condensed}"
+      },
+      "type": "typography"
+    },
+    " Sub Heading 3": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontSize": "{16}",
+        "fontWeight": "{67 Medium Condensed}"
+      },
+      "type": "typography"
+    }
+  },
+  "Content": {
+    "Body": {
+      "value": {
+        "fontFamily": "{Helvetica Neue}",
+        "fontWeight": "{Light}",
+        "fontSize": "{16}"
+      },
+      "type": "typography"
+    },
+    "Caption": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontWeight": "{57 Condensed}",
+        "fontSize": "{13}"
+      },
+      "type": "typography"
+    },
+    "Link": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontWeight": "{67 Medium Condensed}",
+        "fontSize": "{16}"
+      },
+      "type": "typography"
+    },
+    "Button": {
+      "value": {
+        "fontFamily": "{Helvetica Neue LT Com}",
+        "fontWeight": "{67 Medium Condensed}",
+        "fontSize": "{25}"
+      },
+      "type": "typography"
+    }
+  },
+  "Gradient": {
+    "Control": {
+      "Primary": {
+        "value": "{Gradient.Blue}",
+        "type": "color"
+      },
+      "Primary Pressed": {
+        "value": "{Gradient.Blue Pressed}",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "{Gradient.Gray}",
+        "type": "color"
+      },
+      "Secondary Pressed": {
+        "value": "{Gradient.Gray Pressed}",
+        "type": "color"
+      },
+      "Alternate": {
+        "value": "{Gradient.Orange}",
+        "type": "color"
+      },
+      "Alternate Pressed": {
+        "value": "{Gradient.Orange Pressed}",
+        "type": "color"
+      },
+      "Destructive": {
+        "value": "{Gradient.Red}",
+        "type": "color"
+      },
+      "Destructive Pressed": {
+        "value": "{Gradient.Red Pressed}",
+        "type": "color"
+      }
+    },
+    "Container": {
+      "Primary": {
+        "value": "{Gradient.Tan}",
+        "type": "color"
+      },
+      "Primary Pressed": {
+        "value": "{Gradient.Tan Pressed}",
+        "type": "color"
+      }
+    }
+  },
+  "Flat": {
+    "Container": {
+      "Primary": {
+        "value": "{UI.#FCF6E5}",
+        "type": "color"
+      },
+      "Primary Border": {
+        "value": "{UI.#1C0D00}",
+        "type": "color"
+      },
+      "Primary Edge": {
+        "value": "{UI.#BAB19F}",
+        "type": "color"
+      }
+    },
+    "Control": {
+      "Primary Border": {
+        "value": "{UI.#111A2C}",
+        "type": "color"
+      },
+      "Secondary Border": {
+        "value": "{Monotone.#161616}",
+        "type": "color"
+      }
+    }
+  },
+  "4px Solid Shadow": {
+    "value": {
+      "x": "0",
+      "y": "4",
+      "blur": "0",
+      "spread": "0",
+      "color": "{Opacity Color.Black.45%}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  },
+  "Containers": {
+    "widths": {
+      "App Width": {
+        "value": "{Widths.100%}",
+        "type": "sizing"
+      },
+      "Card Width": {
+        "value": "{Widths.343px}",
+        "type": "sizing"
+      },
+      "Button Width": {
+        "value": "{Widths.240px}",
+        "type": "sizing"
+      }
+    },
+    "Heights": {
+      "Button Height": {
+        "value": "{Heights.50px}",
+        "type": "sizing"
+      }
+    }
+  },
+  "Soft Drop Shadow": {
+    "value": {
+      "x": "0",
+      "y": "2",
+      "blur": "4",
+      "spread": "0",
+      "color": "{Opacity Color.Black.45%}",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
+  }
+}
