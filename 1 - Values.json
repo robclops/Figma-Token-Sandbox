@@ -312,6 +312,10 @@
     }
   },
   "Widths": {
+    "100%": {
+      "value": "100%",
+      "type": "sizing"
+    },
     "343px": {
       "value": "343px",
       "type": "sizing"
@@ -320,8 +324,8 @@
       "value": "375px",
       "type": "sizing"
     },
-    "100%": {
-      "value": "100%",
+    "240px": {
+      "value": "240px",
       "type": "sizing"
     }
   }

@@ -1,9 +1,10 @@
 {
   "tokenSetOrder": [
+    "global",
     "0 - Flyclops Brand",
     "1 - Values",
     "2 - IDs",
     "3 - Compositions",
-    "global"
+    "4 - Component"
   ]
 }

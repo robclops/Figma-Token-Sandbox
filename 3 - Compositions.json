@@ -11,5 +11,83 @@
       "width": "{Widths.343px}"
     },
     "type": "composition"
+  },
+  "Button": {
+    "State": {
+      "Primary": {
+        "value": {
+          "width": "{Widths.240px}",
+          "fill": "{Gradient.Blue}",
+          "border": "{Dark Shade}",
+          "boxShadow": "{Soft Drop Shadow}"
+        },
+        "type": "composition"
+      },
+      "Secondary": {
+        "value": {
+          "width": "{Widths.240px}",
+          "fill": "{Gradient.Control.Secondary}",
+          "border": "{Dark Shade}",
+          "boxShadow": "{Soft Drop Shadow}"
+        },
+        "type": "composition"
+      },
+      "Alternate": {
+        "value": {
+          "width": "{Widths.240px}",
+          "fill": "{Gradient.Control.Alternate}",
+          "border": "{Dark Shade}",
+          "boxShadow": "{Soft Drop Shadow}"
+        },
+        "type": "composition"
+      },
+      "Destructive": {
+        "value": {
+          "width": "{Widths.240px}",
+          "fill": "{Gradient.Control.Destructive}",
+          "border": "{Dark Shade}",
+          "boxShadow": "{Soft Drop Shadow}"
+        },
+        "type": "composition"
+      }
+    },
+    "Pressed": {
+      "Primary": {
+        "value": {
+          "width": "{Widths.240px}",
+          "fill": "{Gradient.Blue Pressed}",
+          "border": "{Dark Shade}",
+          "boxShadow": "{Soft Drop Shadow}"
+        },
+        "type": "composition"
+      },
+      "Secondary": {
+        "value": {
+          "width": "{Widths.240px}",
+          "fill": "{Gradient.Control.Secondary Pressed}",
+          "border": "{Dark Shade}",
+          "boxShadow": "{Soft Drop Shadow}"
+        },
+        "type": "composition"
+      },
+      "Alternate": {
+        "value": {
+          "width": "{Widths.240px}",
+          "fill": "{Gradient.Control.Alternate Pressed}",
+          "border": "{Dark Shade}",
+          "boxShadow": "{Soft Drop Shadow}"
+        },
+        "type": "composition"
+      },
+      "Destructive": {
+        "value": {
+          "width": "{Widths.240px}",
+          "fill": "{Gradient.Control.Destructive Pressed}",
+          "border": "{Dark Shade}",
+          "boxShadow": "{Soft Drop Shadow}"
+        },
+        "type": "composition"
+      }
+    }
   }
 }
