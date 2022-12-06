@@ -89,6 +89,10 @@
     "Whatever": {
       "value": "#ff9393",
       "type": "color"
+    },
+    "TEST COLOR": {
+      "value": "#7eff77",
+      "type": "color"
     }
   },
   "Monotone": {
