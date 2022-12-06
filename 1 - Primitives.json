@@ -85,6 +85,10 @@
     "#3D4330": {
       "value": "#3D4330",
       "type": "color"
+    },
+    "Whatever": {
+      "value": "#ff9393",
+      "type": "color"
     }
   },
   "Monotone": {
